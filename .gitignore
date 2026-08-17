@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+reports/*.txt
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
